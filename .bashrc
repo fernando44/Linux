@@ -118,6 +118,6 @@ fi
 #MyConfig
 export PATH=/home/fernando/development/flutter/bin:$PATH #FlutterPath
 alias lsa='ls -a'
-alias webc='sh Documentos/GitHub/Linux/web/webHelp.sh'
-alias lslixo='ls .local/share/Trash/files'
-alias rmlixo='rm -r .local/share/Trash/files/*'
+alias webc='sh /home/$USER/Documentos/GitHub/Linux/web/webHelp.sh'
+alias lslixo='ls /home/$USER/.local/share/Trash/files'
+alias rmlixo='rm -r /home/$USER/.local/share/Trash/files/*'
